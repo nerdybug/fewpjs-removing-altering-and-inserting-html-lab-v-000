@@ -1,4 +1,4 @@
 // Write your code here!
 main.remove();
-var newHeader = document.createElement('h1#victory');
-newHeader;
+var newHeader = 'h1#victory';
+document.createElement(newHeader);
